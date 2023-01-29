@@ -30,7 +30,8 @@ Independent Funding is requesting to perform an ETL process for their new datase
 
 - SQL analysis of backers' contact info
 
-![etl6](https://user-images.githubusercontent.com/106359564/215355927-bd50ccdb-cf23-4cab-9e55-16b743a2cc5b.png)
+![etl6](https://user-images.githubusercontent.com/106359564/215356001-b79a41a2-bcf2-46d5-b86f-c7b67ee90bd1.png)
+
 
 
 ## Summary
