@@ -6,7 +6,7 @@ Independent Funding is requesting to perform an ETL process for their new datase
 - Extract and transform the raw data into a DataFrame using Pandas in Jupyter Notebook
 - Format the data by dropping, splitting, and converting columns
 - Create an ERD to visualize table relationships
-- Create a database in PostreSQL and import the data using pgAdmin 
+- Create a database in PostgreSQL and import the data using pgAdmin 
 - Query tables that contain information of live campaign performances and email contact of backers
 
 ## Results
