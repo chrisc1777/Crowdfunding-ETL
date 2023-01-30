@@ -4,7 +4,7 @@ Independent Funding is requesting to perform an ETL process for their new datase
 
 ## Objectives
 - Extract and transform the raw data into a DataFrame and format the data by dropping, splitting, and converting columns using Pandas in Jupyter Notebook
-- Create an ERD to visualize table relationships and create a database schema in PostgreSQL and import the data using pgAdmin 
+- Create an ERD to visualize table relationships and load data into PostgreSQL database with pgAdmin 
 - Query tables that contain information of live campaign performances and email contact of backers
 
 ## Results
@@ -14,7 +14,7 @@ Independent Funding is requesting to perform an ETL process for their new datase
 ![etl2](https://user-images.githubusercontent.com/106359564/215354626-7f2d5e46-3684-4b8c-a916-a1878258b1f0.png)
 
 
-- ERD tables and schema [code link](https://github.com/chrisc1777/Crowdfunding-ETL/blob/main/crowdfunding_db%20table_schema.sql)
+- ERD tables and database schema [code link](https://github.com/chrisc1777/Crowdfunding-ETL/blob/main/crowdfunding_db%20table_schema.sql)
 
 ![crowdfunding_db_relationships](https://user-images.githubusercontent.com/106359564/215353873-13f48248-fdd8-4288-b583-5f43a9ac9676.png)
 
