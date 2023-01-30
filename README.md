@@ -1,6 +1,6 @@
 # Crowdfunding-ETL
 ## Overview
-Independent Funding is requesting to perform an ETL process for their new dataset containing information on backers' pledging live campaigns. Once the data is extracted, transfomed, and loaded into the database, live campaigns must be analyzed in SQL to determine their performance.
+Independent Funding is a crowdfunding platform for funding independent projects or ventures. Their analytics team is requesting to perform an ETL process for their new dataset containing information on backers' pledging live campaigns. Once the data is extracted, transfomed, and loaded into the database, live campaigns must be analyzed in SQL to determine their performance.
 
 ## Objectives
 - Extract and transform the raw data into a DataFrame and format the data by dropping, splitting, and converting columns using Pandas in Jupyter Notebook
