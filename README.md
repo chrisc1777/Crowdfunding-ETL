@@ -8,7 +8,7 @@ Independent Funding is requesting to perform an ETL process for their new datase
 - Query tables that contain information of live campaign performances and email contact of backers
 
 ## Results
-- Raw file to new DataFrame 
+- Raw file to new DataFrame [code link](https://github.com/chrisc1777/Crowdfunding-ETL/blob/main/Extract-Transform_final_code.ipynb)
 
 ![etl1](https://user-images.githubusercontent.com/106359564/215354624-dc01f139-862a-4c88-82da-f61d2f56387c.png)
 ![etl2](https://user-images.githubusercontent.com/106359564/215354626-7f2d5e46-3684-4b8c-a916-a1878258b1f0.png)
@@ -19,7 +19,8 @@ Independent Funding is requesting to perform an ETL process for their new datase
 ![crowdfunding_db_relationships](https://user-images.githubusercontent.com/106359564/215353873-13f48248-fdd8-4288-b583-5f43a9ac9676.png)
 
 
-- SQL analysis of live campaigns' remaining goals
+- Table Queries [code link](https://github.com/chrisc1777/Crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql)
+  - SQL analysis of live campaigns' remaining goals [code link]
 
 ![etl5](https://user-images.githubusercontent.com/106359564/215355909-6dbdb731-8be6-4b86-a57f-2152b5166559.png)
 
