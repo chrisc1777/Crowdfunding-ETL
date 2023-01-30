@@ -14,7 +14,7 @@ Independent Funding is requesting to perform an ETL process for their new datase
 ![etl2](https://user-images.githubusercontent.com/106359564/215354626-7f2d5e46-3684-4b8c-a916-a1878258b1f0.png)
 
 
-- ERD tables and schema [code](https://github.com/chrisc1777/Crowdfunding-ETL)
+- ERD tables and schema [code link](https://github.com/chrisc1777/Crowdfunding-ETL/blob/main/crowdfunding_db%20table_schema.sql)
 
 ![crowdfunding_db_relationships](https://user-images.githubusercontent.com/106359564/215353873-13f48248-fdd8-4288-b583-5f43a9ac9676.png)
 
