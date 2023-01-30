@@ -21,11 +21,13 @@ Independent Funding is requesting to perform an ETL process for their new datase
 
 - Table Queries [code link](https://github.com/chrisc1777/Crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql)
   - SQL analysis of live campaigns' remaining goals
+  
   ![etl5](https://user-images.githubusercontent.com/106359564/215355909-6dbdb731-8be6-4b86-a57f-2152b5166559.png)
   
   
   
   - SQL analysis of backers' contact info
+  
   ![etl6](https://user-images.githubusercontent.com/106359564/215356001-b79a41a2-bcf2-46d5-b86f-c7b67ee90bd1.png)
 
 
